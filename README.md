@@ -1,24 +1,109 @@
 
 
-### 🚀 Estudante de Análise e Desenvolvimento de Sistemas (IFPI) | Desenvolvedor Python & IoT
+<div align="center">
 
-Atualmente estou no 2º período da faculdade e atuo como pesquisador/desenvolvedor no **Labiras (IFPI)**. Meu foco está em dominar algoritmos, desenvolvimento de software com Python e o ecossistema de Internet das Coisas (IoT).
+# 👨‍💻 Pedro Sousa
 
----
+### 🚀 Estudante de Análise e Desenvolvimento de Sistemas
 
-### 🛠️ Tecnologias e Ferramentas
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **IoT / Hardware** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+</div>
+
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+# 💻 Sobre mim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=P3drosous4&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3drosous4&layout=compact&theme=nord" alt="Linguagens mais usadas" height="150px"/>
-</p>
+Estou atualmente no 2º período da faculdade e atuo como pesquisador/desenvolvedor no **Labiras (IFPI)**. Meu foco está em dominar algoritmos, desenvolvimento de software com Python e o ecossistema de Internet das Coisas (IoT).
+
+---
+
+# 🚀 Tecnologias
+
+<div align="center">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank">
+<img src="https://skillicons.dev/icons?i=arduino" height="60"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+</a>
+
+</div>
+
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=P3drosous4&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=P3drosous4&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+<table>
+<tr>
+<td>
+
+<a href="https://www.linkedin.com/in/pedro-sousa-0b8919409/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="32" align="center"/>
+</a>
+
+</td>
+
+<td>
+
+**Pedro Sousa**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<a href="mailto:pedro10361@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="32" align="center"/>
+</a>
+
+</td>
+
+<td>
+
+**pedro10361@gmail.com**
+
+</td>
+</tr>
+
+</table>
+
+
+
